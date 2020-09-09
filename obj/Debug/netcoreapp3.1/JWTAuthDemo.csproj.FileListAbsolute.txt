@@ -1,0 +1,13 @@
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.exe
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.csprojAssemblyReference.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.AssemblyInfoInputs.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.AssemblyInfo.cs
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.RazorTargetAssemblyInfo.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthDemo.StaticWebAssets.Manifest.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\staticwebassets\JWTAuthDemo.StaticWebAssets.xml
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.csproj.CopyComplete
