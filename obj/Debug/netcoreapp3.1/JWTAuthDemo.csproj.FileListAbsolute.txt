@@ -13,3 +13,17 @@ C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Mi
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.csproj.CopyComplete
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.deps.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.runtimeconfig.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.runtimeconfig.dev.json
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\JWTAuthDemo.pdb
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.pdb
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.genruntimeconfig.cache
