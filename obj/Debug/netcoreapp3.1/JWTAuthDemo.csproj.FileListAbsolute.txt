@@ -11,3 +11,5 @@ C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\st
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\obj\Debug\netcoreapp3.1\JWTAuthDemo.csproj.CopyComplete
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SAkanbi\source\repos\JWTAuthDemo\JWTAuthDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
